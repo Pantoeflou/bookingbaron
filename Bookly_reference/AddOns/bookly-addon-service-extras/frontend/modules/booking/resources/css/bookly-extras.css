@@ -1,0 +1,9 @@
+.bookly-cart tbody.bookly-desktop-version,
+.bookly-cart tbody.bookly-desktop-version td,
+.bookly-cart tbody.bookly-mobile-version tr.bookly-extras-cart th,
+.bookly-cart tbody.bookly-mobile-version tr.bookly-extras-cart td {
+    border: 0 !important;
+}
+.bookly-cart tbody.bookly-desktop-version tr.bookly-extras-cart td.bookly-extras-cart-title {
+    padding-left: 25px;
+}

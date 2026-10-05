@@ -1,0 +1,9 @@
+#bookly-tbs a {
+    border-bottom: none;
+}
+#bookly-tbs .pagination .next, #bookly-tbs .pagination .next:hover {
+    background-color: inherit;
+}
+#bookly-tbs table#bookly-packages-list {
+    table-layout: inherit;
+}
